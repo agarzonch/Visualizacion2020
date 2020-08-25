@@ -1,6 +1,6 @@
 ## Bienvenido a la página de mi repositorio
 
-* Arnulfo Garzón Chilatra *
+*Arnulfo Garzón Chilatra*
 
 ### Markdown
 
